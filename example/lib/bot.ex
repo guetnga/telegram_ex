@@ -96,7 +96,7 @@ defmodule Example.Bot do
     ```
     Code block
     ```
-    [TelegramEx on GitHub](https://github.com/lsdrfrx/telegram_ex)
+    [TelegramEx on GitHub](https://github.com/guetnga/telegram_ex)
     """
 
     ctx
@@ -109,7 +109,7 @@ defmodule Example.Bot do
     html = """
     <b>Bold</b>, <i>Italic</i>, <code>code</code>
     <pre>Pre-formatted block</pre>
-    <a href="https://github.com/lsdrfrx/telegram_ex">TelegramEx on GitHub</a>
+    <a href="https://github.com/guetnga/telegram_ex">TelegramEx on GitHub</a>
     """
 
     ctx

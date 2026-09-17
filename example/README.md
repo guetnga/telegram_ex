@@ -1,6 +1,6 @@
 # TelegramEx Demo Bot
 
-A demo bot that showcases every feature of the [TelegramEx](https://github.com/lsdrfrx/telegram_ex) library.
+A demo bot that showcases every feature of the [TelegramEx](https://github.com/guetnga/telegram_ex) library.
 
 ## Features Demonstrated
 

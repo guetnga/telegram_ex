@@ -14,7 +14,7 @@ defmodule TelegramEx.MixProject do
       deps: deps(),
       dialyzer: dialyzer(),
       docs: docs(),
-      source_url: "https://github.com/lsdrfrx/telegram_ex"
+      source_url: "https://github.com/guetnga/telegram_ex"
     ]
   end
 
@@ -85,7 +85,7 @@ defmodule TelegramEx.MixProject do
       files: ~w(lib guides .formatter.exs mix.exs README* LICENSE*
                 CHANGELOG*),
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/lsdrfrx/telegram_ex"}
+      links: %{"GitHub" => "https://github.com/guetnga/telegram_ex"}
     ]
   end
 end

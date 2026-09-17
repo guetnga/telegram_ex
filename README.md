@@ -2,11 +2,11 @@
 
 Elixir library for building Telegram bots with a macro-based API.
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/lsdrfrx/telegram_ex/ci.yml?style=for-the-badge)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/guetnga/telegram_ex/ci.yml?style=for-the-badge)
 [![Hex Version](https://img.shields.io/hexpm/v/telegram_ex.svg?style=for-the-badge)](https://hex.pm/packages/telegram_ex)
-![Last commit](https://img.shields.io/github/last-commit/lsdrfrx/telegram_ex?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/lsdrfrx/telegram_ex?style=for-the-badge)
-![License](https://img.shields.io/github/license/lsdrfrx/telegram_ex?style=for-the-badge)
+![Last commit](https://img.shields.io/github/last-commit/guetnga/telegram_ex?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/guetnga/telegram_ex?style=for-the-badge)
+![License](https://img.shields.io/github/license/guetnga/telegram_ex?style=for-the-badge)
 ![Hex.pm Downloads](https://img.shields.io/hexpm/dt/telegram_ex?style=for-the-badge)
 
 ## Installation
@@ -79,11 +79,11 @@ Supervisor.start_link(children, strategy: :one_for_one)
 See [HexDocs](https://hexdocs.pm/telegram_ex) for API reference and guides.
 
 <div align="center">
-  <a href="https://www.star-history.com/?repos=lsdrfrx%2Ftelegram_ex&type=date&legend=top-left">
+  <a href="https://www.star-history.com/?repos=guetnga%2Ftelegram_ex&type=date&legend=top-left">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=lsdrfrx/telegram_ex&type=date&theme=dark&legend=top-left" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=lsdrfrx/telegram_ex&type=date&legend=top-left" />
-      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lsdrfrx/telegram_ex&type=date&legend=top-left" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=guetnga/telegram_ex&type=date&theme=dark&legend=top-left" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=guetnga/telegram_ex&type=date&legend=top-left" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=guetnga/telegram_ex&type=date&legend=top-left" />
     </picture>
   </a>
 </div>
