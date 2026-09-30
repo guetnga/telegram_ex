@@ -31,7 +31,8 @@ defmodule TelegramEx.MixProject do
       {:pockets, "~> 1.6.0"},
       {:credo, "~> 1.7", only: [:dev, :test], runtime: false},
       {:dialyxir, "~> 1.4", only: [:dev, :test], runtime: false},
-      {:ex_doc, "~> 0.14", only: :dev, runtime: false}
+      {:ex_doc, "~> 0.14", only: :dev, runtime: false},
+      {:plug, "~> 1.0", only: :test, runtime: false}
     ]
   end
 
