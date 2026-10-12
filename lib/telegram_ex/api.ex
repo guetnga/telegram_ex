@@ -37,7 +37,8 @@ defmodule TelegramEx.API do
     case client()
          |> Req.get(
            url: "https://api.telegram.org/bot#{token}/getUpdates",
-           params: [offset: offset]
+           params: [offset: offset, timeout: 30],
+           receive_timeout: 35_000
          ) do
       {:ok, %{status: 200, body: %{"ok" => true, "result" => updates}}} ->
         {:ok, updates}
